@@ -46,7 +46,7 @@ ead:
 
 authuser:
   refreshscope:
-    name: Guilherme Update!!!
+    name: Refresh Scope Update!!!
 
 management:
   endpoints:
